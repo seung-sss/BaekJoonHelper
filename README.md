@@ -1,5 +1,5 @@
 # Contribute
-출처 : [ukcastle/BaekJoonHelper] (https://github.com/ukcastle/BaekJoonHelper)
+출처 : [ukcastle/BaekJoonHelper](https://github.com/ukcastle/BaekJoonHelper)
 
 해당 코드는 위의 github에서 clone해온 것으로, 필요에 맞춰 일부 custom해서 사용중
 
